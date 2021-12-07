@@ -5,4 +5,3 @@
 - [ ] [Tarea 1 Reflex agent](https://mindiajpop.github.io/IA/01_reflex_agent.html)
 
 
-
